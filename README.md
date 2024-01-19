@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://eglenn.dev/images/profile.webp" width="100">
     <h1>Ethan Glenn</h1>
 </div>
 
