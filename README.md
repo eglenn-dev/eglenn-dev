@@ -10,9 +10,9 @@
 
 Hi, I'm Ethan, a student at Brigham Young University ─ Idaho, pursuing a degree in Computer Science. I also work for BYU-Idaho as a Lab Tech and Dev.
 
-Check out my website <a target="_blank" href="https://eglenn.dev">eglenn.dev</a>! Click <a target="_blank" href="https://eglenn.dev/projects">here</a> for my projects.
+Check out my website [eglenn.dev](https://eglenn.dev)! Click [here](https://eglenn.dev/projects) for my projects.
 
-Interested in contacting me? Reach out <a target="_blank" href="https://eglenn.dev/contact">here</a>.
+Interested in contacting me? Reach out [here](https://eglenn.dev/contact), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 <br>
 <div align="center">
