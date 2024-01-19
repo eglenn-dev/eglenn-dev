@@ -17,5 +17,5 @@ Interested in contacting me? Reach out <a target="_blank" href="https://eglenn.d
 
 <br>
 <div align="center">
-    <img src="./resources/giphy.gif" style="border-radius: 10%; width: 200px">
+    <img src="./resources/giphy.gif" width="200">
 </div>
