@@ -16,5 +16,5 @@ Check out my website [eglenn.dev](https://eglenn.dev/)! Click [here](https://egl
 Interested in contacting me? Reach out [here](https://eglenn.dev/contact).
 
 <div align="center">
-    <iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"></a></p>
+    <img src="./resources/giphy.gif" style="border-radius: 10%; width: 200px">
 </div>
