@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Hi, I'm Ethan Glenn, a student at Brigham Young University ─ Idaho, pursuing a degree in Computer Science. I also currently work for BYU-Idaho as a Lab Tech and Dev.
+Hi, I'm Ethan, a Computer Science student at BYU-Idaho. I also currently work for BYU-Idaho as a Lab Tech and Dev.
 
 <div align="center"><img src="./img/duck.webp" width="80"></div><br>
 
