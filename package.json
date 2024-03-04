@@ -1,0 +1,18 @@
+{
+  "name": "eglenn-dev",
+  "version": "1.0.0",
+  "description": "README file for GitHub profile\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eglenn-dev"
+  },
+  "author": "Ethan Glenn",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
