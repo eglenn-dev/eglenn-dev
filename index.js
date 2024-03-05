@@ -29,7 +29,7 @@ async function setWeatherInformation() {
 }
 
 async function githubStats() {
-    fetch(apiUrl)
+    return await fetch(apiUrl)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
