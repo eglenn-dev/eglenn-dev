@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-4°C</b>.
+Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-3°C</b>.
 
 I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;7&#x2F;2024
 
@@ -14,14 +14,14 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 
 <h3>Things that I code with</h3>
 <p>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
 </p>
 
@@ -29,4 +29,4 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 March, 05:28 GMT-7<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 March at 12:50 GMT-7<br />
