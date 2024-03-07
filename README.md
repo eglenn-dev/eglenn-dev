@@ -6,7 +6,7 @@
 
 Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-2°C</b>.
 
-I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;6&#x2F;2024
+I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;7&#x2F;2024
 
 <div align="center"><img src="./img/duck.webp" width="80"></div><br>
 
@@ -29,4 +29,4 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 6 March, 11:19 GMT-7<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 6 March, 17:54 GMT-7<br />
