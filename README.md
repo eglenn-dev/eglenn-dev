@@ -29,4 +29,8 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 ------------
+<<<<<<< HEAD
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 March at 12:50 GMT-7<br />
+=======
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 March, 11:19 GMT-7<br />
+>>>>>>> c6cdefadb1899fa47c32b03a85a6337fe8d5ea7c
