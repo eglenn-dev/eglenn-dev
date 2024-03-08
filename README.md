@@ -6,7 +6,7 @@
 
 Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-4°C</b>.
 
-I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;7&#x2F;2024
+I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;8&#x2F;2024
 
 <div align="center"><img src="./img/duck.webp" width="80"></div><br>
 
