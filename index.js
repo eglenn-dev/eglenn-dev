@@ -29,31 +29,6 @@ async function setWeatherInformation() {
         });
 }
 
-async function githubStats() {
-    return await fetch(apiUrl)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.json();
-        })
-        .then(data => {
-            // Find the latest push event (commit) in the user's contributions
-            const pushEvent = data.find(event => event.type === 'PushEvent');
-
-            if (pushEvent) {
-                const lastCommitDate = new Date(pushEvent.created_at).toLocaleDateString();
-                DATA.last_commit_date = lastCommitDate;
-                console.log('Last commit date:', lastCommitDate);
-            } else {
-                console.error('No push events found in the GitHub data.');
-            }
-        })
-        .catch(error => {
-            console.error('Fetch error:', error);
-        });
-}
-
 async function generateReadMe() {
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
@@ -64,7 +39,6 @@ async function generateReadMe() {
 
 async function build() {
     await setWeatherInformation();
-    await githubStats();
     await generateReadMe();
 }
 
