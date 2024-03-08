@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-9°C</b>.
+Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-7°C</b>.
 
 I work for BYU-Idaho as a Lab Tech and Dev and I last committed code on: 3&#x2F;8&#x2F;2024
 
@@ -29,4 +29,4 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 March, 23:19 GMT-7<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 8 March, 05:27 GMT-7<br />
