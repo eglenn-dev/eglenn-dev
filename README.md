@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-14°C</b>. I currently work for BYU-Idaho as a Lab Tech and Dev. 
+Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-3°C</b>. I currently work for BYU-Idaho as a Lab Tech and Dev. 
 
 <div align="center"><img src="./img/duck.webp" width="80"></div><br>
 
@@ -27,4 +27,4 @@ Feel free to explorer my GitHub profile and check out some of my projects! I'm a
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/), or connect with me on [LinkedIn](https://eglenn.app/in).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 10 March, 06:25 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 10 March, 12:16 GMT-6<br />
