@@ -3,9 +3,6 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-const username = 'eglenn-dev';
-const apiUrl = `https://api.github.com/users/${username}/events`;
-
 let DATA = {
     name: 'Ethan',
     refresh_date: new Date().toLocaleDateString('en-GB', {
