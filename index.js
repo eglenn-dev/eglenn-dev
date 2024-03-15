@@ -23,6 +23,7 @@ async function setWeatherInformation() {
         .then(r => r.json())
         .then(r => {
             DATA.city_temp = Math.round(r.main.temp - 273.15);
+            DATA.f_temp = Math.round(celsiusToFahrenheit(r.main.temp - 273.15));
         });
 }
 
@@ -32,6 +33,10 @@ async function generateReadMe() {
         const output = Mustache.render(data.toString(), DATA);
         fs.writeFileSync('README.md', output);
     });
+}
+
+function celsiusToFahrenheit(celsius) {
+    return celsius * 9 / 5 + 32;
 }
 
 async function build() {
