@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-2°C (28°F)</b>. I currently work for BYU-Idaho as a Lab Tech and Dev. 
+Hi, I'm Ethan, a Computer Science student at BYU-Idaho where it is currently <b>-3°C (27°F)</b>. I currently work for BYU-Idaho as a Lab Tech and Dev. 
 
 <div align="center"><img src="./img/duck.webp" width="80"></div><br>
 
