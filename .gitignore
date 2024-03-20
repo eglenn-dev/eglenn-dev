@@ -1,3 +1,4 @@
 # VS Code Settings
 .vscode
 node_modules
+.DS_Store
