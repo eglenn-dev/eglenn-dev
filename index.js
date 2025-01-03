@@ -17,14 +17,20 @@ let DATA = {
 };
 
 async function setWeatherInformation() {
-    await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=rexburg&appid=41b040317d7c966d88f7697cb552aba4&unit=metric`
-    )
+    const latitude = 43.817749;
+    const longitude = -111.783011;
+    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=41b040317d7c966d88f7697cb552aba4&units=imperial`;
+
+    await fetch(apiUrl)
         .then(r => r.json())
         .then(r => {
-            DATA.city_temp = Math.round(r.main.temp - 273.15);
-            DATA.f_temp = Math.round(celsiusToFahrenheit(r.main.temp - 273.15));
+            DATA.temp = r.main.temp.toString().split('.')[0];
         });
+    DATA.time = new Date().toLocaleTimeString("en-US", {
+        timeZone: "America/Denver",
+        hour: 'numeric',
+        minute: 'numeric',
+    });
 }
 
 async function generateReadMe() {
@@ -33,10 +39,6 @@ async function generateReadMe() {
         const output = Mustache.render(data.toString(), DATA);
         fs.writeFileSync('README.md', output);
     });
-}
-
-function celsiusToFahrenheit(celsius) {
-    return celsius * 9 / 5 + 32;
 }
 
 async function build() {
