@@ -5,9 +5,16 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://eglenn.dev/).
 
-Current temp in Rexburg, ID: <b>8°F</b> as of 6:01 PM
+Current temp in Rexburg, ID: <b>4°F</b> as of 7:11 PM
 
-<h3>Things that I code with</h3>
+### Things I'm working on
+
+- [MarkNote.one](https://marknote.one) - A markdown note-taking app
+- [AI Summarizer](http://eglenn.app/ai) - A text summarizer using AI
+- [Projects.now](https://projects.now) - A student project staring tool
+
+### Things that I code with
+
 <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -25,7 +32,7 @@ Current temp in Rexburg, ID: <b>8°F</b> as of 6:01 PM
 
 <div align="center"><img alt="Duck image" src="./img/duck.webp" width="80"></div><br>
 
-Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/contact), or connect with me on [LinkedIn](https://eglenn.app/in).
+Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 19 January, 18:01 GMT-7<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 19 January, 19:10 GMT-7<br />
