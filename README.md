@@ -5,7 +5,7 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://eglenn.dev/).
 
-Current temp in Rexburg, ID: <b>27°F</b> as of 2:14 AM
+Current temp in Rexburg, ID: <b>33°F</b> as of 2:14 AM
 
 ### Things I'm working on
 
