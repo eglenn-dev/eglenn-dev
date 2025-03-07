@@ -1,4 +1,4 @@
-name: Update Lines of Code in Readme
+name: Update code lines count
 
 on:
     schedule:
@@ -23,9 +23,9 @@ jobs:
             # Fetch public repositories (excluding forks) and clone only the default branch
             - name: Fetch and Clone Repositories
               env:
-                  GH_PAT: ${{ secrets.GH_PAT }}
+                  GH_PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
               run: |
-                  USERNAME="arhamkhnz"
+                  USERNAME="eglenn-dev"
 
                   # Get a list of public repositories that are not forks
                   REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/user/repos?per_page=100" | jq -r '.[] | select(.fork == false) | .full_name') || echo "Error fetching repositories"
