@@ -5,11 +5,12 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://eglenn.dev/).
 
-Current temp in Rexburg, ID: <b>33°F</b> as of 12:19 PM
+Current temp in Rexburg, ID: <b>36°F</b> as of 3:08 PM
 
 ### Things I'm working on
 
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
+- [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
 - [AI Summarizer](http://eglenn.app/ai) ([repo](https://github.com/eglenn-dev/ai-summarizer)) - A text summarizer using AI
 - [Personal Website](https://eglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
@@ -38,4 +39,4 @@ Current temp in Rexburg, ID: <b>33°F</b> as of 12:19 PM
 Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 13 March, 12:19 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 13 March, 15:08 GMT-6<br />
