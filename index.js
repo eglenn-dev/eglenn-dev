@@ -19,7 +19,7 @@ let DATA = {
 async function setWeatherInformation() {
     const latitude = 43.817749;
     const longitude = -111.783011;
-    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=41b040317d7c966d88f7697cb552aba4&units=imperial`;
+    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=5fba60eb0816d6da484e2f051161727d&units=imperial`;
 
     await fetch(apiUrl)
         .then(r => r.json())
