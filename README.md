@@ -7,8 +7,6 @@ I am a software engineer and Computer Science student at Brigham Young Universit
 
 Current temp in Rexburg, ID: <b>67°F</b> as of 12:32 PM
 
-<iframe src="https://eglenn.dev/api/stats"></iframe>
-
 ### Things I'm working on
 
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
