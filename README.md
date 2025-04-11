@@ -3,16 +3,18 @@
 </div>
 <br>
 
-I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://eglenn.dev/).
+I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/).
 
-Current temp in Rexburg, ID: <b>67°F</b> as of 12:33 PM
+Current temp in Rexburg, ID: <b>70°F</b> as of 1:03 PM
+
+My current top language is: <b>TypeScript</b>
 
 ### Things I'm working on
 
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
-- [AI Summarizer](http://eglenn.app/ai) ([repo](https://github.com/eglenn-dev/ai-summarizer)) - A text summarizer using AI
-- [Personal Website](https://eglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
+- [AI Summarizer](https://clipit.one/eg-dev-ai) ([repo](https://github.com/eglenn-dev/ai-summarizer)) - A text summarizer using AI
+- [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
 ### Things that I code with
 
@@ -38,7 +40,7 @@ Current temp in Rexburg, ID: <b>67°F</b> as of 12:33 PM
 
 <div align="center"><img alt="Duck image" src="./img/duck.webp" width="80"></div><br>
 
-Interested in getting in contact? Feel free to reach out [here](https://eglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
+Interested in getting in contact? Feel free to reach out [here](https://ethanglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 11 April, 12:33 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday 11 April at 13:03 GMT-6<br />
