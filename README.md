@@ -5,7 +5,7 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/).
 
-Current temp in Rexburg, ID: <b>47°F</b> as of 3:12 PM
+Current temp in Rexburg, ID: <b>46°F</b> as of 7:04 PM
 
 My current top language is: <b>TypeScript</b>
 
@@ -43,4 +43,4 @@ My current top language is: <b>TypeScript</b>
 Interested in getting in contact? Feel free to reach out [here](https://ethanglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 18 April, 15:12 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 18 April, 19:04 GMT-6<br />
