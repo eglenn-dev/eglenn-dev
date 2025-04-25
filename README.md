@@ -5,7 +5,7 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/).
 
-Current temp in Rexburg, ID: <b>31°F</b> as of 6:28 AM
+Current temp in Rexburg, ID: <b>43°F</b> as of 9:01 AM
 
 My current top language is: <b>TypeScript</b>
 
@@ -13,7 +13,6 @@ My current top language is: <b>TypeScript</b>
 
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
-- [AI Summarizer](https://clipit.one/eg-dev-ai) ([repo](https://github.com/eglenn-dev/ai-summarizer)) - A text summarizer using AI
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
 ### Things that I code with
@@ -43,4 +42,4 @@ My current top language is: <b>TypeScript</b>
 Interested in getting in contact? Feel free to reach out [here](https://ethanglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 25 April, 06:28 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 25 April, 09:01 GMT-6<br />
