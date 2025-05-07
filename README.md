@@ -5,7 +5,7 @@
 
 I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/).
 
-Current temp in Rexburg, ID: <b>63°F</b> as of 7:10 PM
+Current temp in Rexburg, ID: <b>62°F</b> as of 7:10 PM
 
 My current top language is: <b>TypeScript</b>
 
