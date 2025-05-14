@@ -3,15 +3,15 @@
 </div>
 <br>
 
-I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/).
+I am a software engineer and Computer Science student at Brigham Young University - Idaho. Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>40°F</b> as of 12:18 PM
+Current temp in Rexburg, ID: <b>41°F</b> as of 1:43 PM
 
 My current top language is: <b>TypeScript</b>
 
 ### Things I'm working on
 
-- [My Senior Project](https://ethanglenn.dev/blog/senior-project-update) - Use AI to help you apply for jobs, more to come soon!
+- [My Senior Project](https://clipit.one/eg-dev-resumly) - Use AI to help you apply for jobs, more to come soon!
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
@@ -45,4 +45,4 @@ My current top language is: <b>TypeScript</b>
 Interested in getting in contact? Feel free to reach out [here](https://ethanglenn.dev/contact), or connect with me on [LinkedIn](https://www.linkedin.com/in/eglenn-dev).
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 14 May, 12:18 GMT-6<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 14 May, 13:43 GMT-6<br />
