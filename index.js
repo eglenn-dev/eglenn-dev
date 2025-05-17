@@ -33,15 +33,6 @@ async function setWeatherInformation() {
     });
 }
 
-async function getTopLanguage() {
-    const url = 'https://ethanglenn.dev/api/stats';
-    const response = await fetch(url);
-    const data = await response.json();
-
-    const topLanguage = Object.keys(data).reduce((a, b) => data[a] > data[b] ? a : b);
-    DATA.topLanguage = topLanguage;
-}
-
 async function generateReadMe() {
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
@@ -51,7 +42,6 @@ async function generateReadMe() {
 }
 
 async function build() {
-    await getTopLanguage();
     await setWeatherInformation();
     await generateReadMe();
 }
