@@ -7,11 +7,11 @@ I am a software engineer and Computer Science student at Brigham Young Universit
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>83°F</b> as of 12:22 PM
+Current temp in Rexburg, ID: <b>85°F</b> as of 1:33 PM
 
 ### Things I'm working on
 
-- [Resumly.pro](https://resumly.pro) ([read](https://ethanglenn.dev/blog/resumly-launch)) - Your AI powered resume assistant
+- [Resumly.pro](https://resumly.pro) ([read](https://ethanglenn.dev/blog/resumly)) - Your AI powered resume assistant
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
@@ -45,4 +45,8 @@ Current temp in Rexburg, ID: <b>83°F</b> as of 12:22 PM
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 15 July, 12:22 GMT-6<br />
+<p align="center">
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>
+    Last refresh: Tuesday, 15 July, 13:33 GMT-6<br />
+    <em>Auto commits do not count towards the contribution graph.</em>    
+</p>
