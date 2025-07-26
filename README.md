@@ -7,13 +7,13 @@ I am a software engineer and Computer Science student at Brigham Young Universit
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>47°F</b> as of 6:29 AM
+Current temp in Rexburg, ID: <b>51°F</b> as of 8:10 AM
 
 ### Things I'm working on
 
 - [Resumly.pro](https://resumly.pro) ([read](https://ethanglenn.dev/blog/resumly)) - Your AI powered resume assistant
 - [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
-- [ClipIt.one](https://clipit.one) ([repo](https://github.com/eglenn-dev/ClipIt.one)) - A links shortening service with analytics
+- [Bible Search](https://bible.eglenn.dev) ([read](https://ethanglenn.dev/blog/bible-search)) - A semantic vector based search engine for the Bible
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
 ### Things that I code with
@@ -47,6 +47,6 @@ Current temp in Rexburg, ID: <b>47°F</b> as of 6:29 AM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Saturday, 26 July, 06:29 GMT-6<br />
+    Last refresh: Saturday, 26 July, 08:10 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
