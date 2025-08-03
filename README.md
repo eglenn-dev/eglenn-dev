@@ -7,7 +7,7 @@ I am a software engineer and Computer Science student at Brigham Young Universit
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>61°F</b> as of 9:15 AM
+Current temp in Rexburg, ID: <b>76°F</b> as of 12:21 PM
 
 ### Things I'm working on
 
@@ -47,6 +47,6 @@ Current temp in Rexburg, ID: <b>61°F</b> as of 9:15 AM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Sunday, 3 August, 09:15 GMT-6<br />
+    Last refresh: Sunday, 3 August, 12:21 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
