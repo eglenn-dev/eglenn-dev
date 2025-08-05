@@ -3,11 +3,11 @@
 </div>
 <br>
 
-I am a software engineer and Computer Science student at Brigham Young University - Idaho.
+I am a Full-Stack Developer for DataThink, and a Senior at Brigham Young University - Idaho, where I am studying Computer Science. 
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>75°F</b> as of 7:20 PM
+Current temp in Rexburg, ID: <b>76°F</b> as of 8:46 PM
 
 ### Things I'm working on
 
@@ -47,6 +47,6 @@ Current temp in Rexburg, ID: <b>75°F</b> as of 7:20 PM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Monday, 4 August, 19:20 GMT-6<br />
+    Last refresh: Monday, 4 August, 20:46 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
