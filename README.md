@@ -7,7 +7,7 @@ I am a Full-Stack Developer for DataThink, and a Senior at Brigham Young Univers
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>62°F</b> as of 10:02 PM
+Current temp in Rexburg, ID: <b>60°F</b> as of 12:25 AM
 
 ### Things I'm working on
 
@@ -47,6 +47,6 @@ Current temp in Rexburg, ID: <b>62°F</b> as of 10:02 PM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Sunday, 10 August, 22:02 GMT-6<br />
+    Last refresh: Monday, 11 August, 00:25 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
