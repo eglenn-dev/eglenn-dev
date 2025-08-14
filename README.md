@@ -3,17 +3,18 @@
 </div>
 <br>
 
-I am a Full-Stack Developer for DataThink, and a Senior at Brigham Young University - Idaho, where I am studying Computer Science. 
+I am a Full-stack developer for dataThink, and a Senior at Brigham Young University - Idaho, where I am studying Computer Science. 
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>82°F</b> as of 9:49 PM
+Current temp in Rexburg, ID: <b>76°F</b> as of 10:40 PM
 
 ### Things I'm working on
 
 - [Resumly.pro](https://resumly.pro) ([read](https://ethanglenn.dev/blog/resumly)) - Your AI powered resume assistant
-- [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
+- [Git Rewind](https://git-rewind.com) ([read](https://ethanglenn.dev/blog/git-rewind)) - A tool to help you see stats about your GitHub profile
 - [Bible Search](https://bible.eglenn.dev) ([read](https://ethanglenn.dev/blog/bible-search)) - A semantic vector based search engine for the Bible
+- [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
 ### Things that I code with
@@ -47,6 +48,6 @@ Current temp in Rexburg, ID: <b>82°F</b> as of 9:49 PM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Wednesday, 13 August, 21:49 GMT-6<br />
+    Last refresh: Wednesday, 13 August, 22:40 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
