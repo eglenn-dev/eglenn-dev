@@ -3,11 +3,11 @@
 </div>
 <br>
 
-I am a Full-stack developer for dataThink, and a Senior at Brigham Young University - Idaho, where I am studying Computer Science. 
+I am a Full-stack developer for DataThink, and a senior at Brigham Young University - Idaho, where I am studying Computer Science. 
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>74°F</b> as of 9:50 PM
+Current temp in Rexburg, ID: <b>73°F</b> as of 10:45 PM
 
 ### Things I'm working on
 
@@ -40,6 +40,9 @@ Current temp in Rexburg, ID: <b>74°F</b> as of 9:50 PM
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-CA2136?style=flat-square&logo=sqlalchemy&logoColor=white" />
+    <img alt="Pydantic" src="https://img.shields.io/badge/-Pydantic-0E7CA3?style=flat-square&logo=pydantic&logoColor=white" />
 </p>
 
 <div align="center"><img alt="Duck image" src="./img/duck.webp" width="80"></div><br>
@@ -48,6 +51,6 @@ Current temp in Rexburg, ID: <b>74°F</b> as of 9:50 PM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Thursday, 14 August, 21:50 GMT-6<br />
+    Last refresh: Thursday, 14 August, 22:45 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
