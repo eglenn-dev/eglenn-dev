@@ -7,13 +7,13 @@ I am a Full-stack developer for DataThink, and a senior at Brigham Young Univers
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>65°F</b> as of 9:36 PM
+Current temp in Rexburg, ID: <b>62°F</b> as of 11:00 PM
 
 ### Things I'm working on
 
+- Legrande Health ([read](https://ethanglenn.dev/blog/legrande-health)) - A order management platform to connect medical practices with suppliers 
 - [Resumly.pro](https://resumly.pro) ([read](https://ethanglenn.dev/blog/resumly)) - Your AI powered resume assistant
 - [Git Rewind](https://git-rewind.com) ([read](https://ethanglenn.dev/blog/git-rewind)) - A tool to help you see stats about your GitHub profile
-- [MarkNote.one](https://marknote.one) ([repo](https://github.com/eglenn-dev/MarkNote.one)) - A markdown note-taking app
 - [Personal Website](https://ethanglenn.dev) ([repo](https://github.com/eglenn-dev/personal-site)) - My personal website
 
 ### Things that I code with
@@ -50,6 +50,6 @@ Current temp in Rexburg, ID: <b>65°F</b> as of 9:36 PM
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Sunday, 14 September, 21:36 GMT-6<br />
+    Last refresh: Sunday, 14 September, 23:00 GMT-6<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
