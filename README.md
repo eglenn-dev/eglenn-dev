@@ -7,7 +7,7 @@ I am a Full-stack developer for DataThink, and a senior at Brigham Young Univers
 
 Check out my projects and experience on [my website](https://ethanglenn.dev/), I also share project updates and my thoughts on [my blog](https://ethanglenn.dev/blog).
 
-Current temp in Rexburg, ID: <b>44°F</b> as of 3:13 PM
+Current temp in Rexburg, ID: <b>45°F</b> as of 3:13 PM
 
 ### Things I'm working on
 
