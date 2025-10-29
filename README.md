@@ -9,7 +9,7 @@
         <tr>
             <td align="center" style="vertical-align: middle; width: 50%;">
                 <h3>Weather — <b>Rexburg, ID</b></h3>
-                <div style="font-size: 28px;">🌤️ 36°F</div>
+                <div style="font-size: 28px;">🌤️ 37°F</div>
             </td>
             <td align="center" style="vertical-align: middle; width: 50%;">
                 <h3>Things that I code with</h3>
