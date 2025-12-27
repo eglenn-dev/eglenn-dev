@@ -9,7 +9,7 @@
         <tr>
             <td align="center" style="vertical-align: middle; width: 50%;">
                 <h3>Weather — <b>Rexburg, ID</b></h3>
-                <div style="font-size: 28px;">🌤️ 37°F</div>
+                <div style="font-size: 28px;">🌤️ 33°F</div>
             </td>
             <td align="center" style="vertical-align: middle; width: 50%;">
                 <h3>Things that I code with</h3>
@@ -38,6 +38,6 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!</br>
-    Last refresh: Saturday, 27 December, 05:30 GMT-7<br />
+    Last refresh: Saturday, 27 December, 08:14 GMT-7<br />
     <em>Auto commits do not count towards the contribution graph.</em>    
 </p>
