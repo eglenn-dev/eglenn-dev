@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <b>Full-Stack Developer</b> @ DataThink &nbsp;•&nbsp; <b>Computer Science</b> @ BYU-Idaho
+    <b>Full-Stack Engineer</b> @ DataThink &nbsp;•&nbsp; <b>Computer Science</b> @ BYU-Idaho
 </p>
 
 <p align="center">
@@ -64,6 +64,6 @@
 
 <p align="center">
     <sub>
-        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Thursday, 12 February, 21:49 GMT-7
+        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Thursday, 12 February, 21:57 GMT-7
     </sub>
 </p>
