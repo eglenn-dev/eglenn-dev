@@ -55,7 +55,7 @@
         </td>
         <td valign="middle">
             <strong>Rexburg, ID</strong><br />
-            <span>38°F</span>
+            <span>33°F</span>
         </td>
     </tr>
 </table>
