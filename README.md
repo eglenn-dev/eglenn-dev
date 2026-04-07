@@ -55,7 +55,7 @@
         </td>
         <td valign="middle">
             <strong>Rexburg, ID</strong><br />
-            <span>51°F</span>
+            <span>64°F</span>
         </td>
     </tr>
 </table>
@@ -64,6 +64,6 @@
 
 <p align="center">
     <sub>
-        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Tuesday, 7 April, 10:07 GMT-6
+        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Tuesday, 7 April, 12:56 GMT-6
     </sub>
 </p>
