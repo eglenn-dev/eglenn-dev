@@ -3,18 +3,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-    <b>Full-Stack Engineer</b> @ DataThink &nbsp;•&nbsp; <b>Computer Science</b> @ BYU-Idaho
-</p>
-
-<p align="center">
-    <a href="https://github.com/eglenn-dev">
-        <img src="https://img.shields.io/badge/GitHub-eglenn--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-</p>
-
----
-
 ### Languages
 
 <p>
@@ -55,7 +43,7 @@
         </td>
         <td valign="middle">
             <strong>Rexburg, ID</strong><br />
-            <span>47°F</span>
+            <span>65°F</span>
         </td>
     </tr>
 </table>
@@ -64,6 +52,6 @@
 
 <p align="center">
     <sub>
-        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Sunday, 10 May, 09:46 GMT-6
+        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Sunday, 10 May, 12:37 GMT-6
     </sub>
 </p>
