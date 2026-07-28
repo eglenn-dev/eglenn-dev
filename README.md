@@ -5,13 +5,13 @@
 
 - Listen, build, share, repeat.
 - Building cool things at DataThink.
-- Canadian, living in Rexburg, ID where it's 86°F.
+- Canadian, living in Rexburg, ID where it's 85°F.
 - Learn more about me [here](https://ethanglenn.dev).
 
 ---
 
 <p align="center">
     <sub>
-        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Tuesday, 28 July, 13:15 GMT-6
+        This README auto-updates every 3 hours, and does not count toward contribution graph &nbsp;•&nbsp; Last refresh: Tuesday, 28 July, 15:57 GMT-6
     </sub>
 </p>
