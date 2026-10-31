@@ -5,5 +5,5 @@
 
 - Listen, build, ship, repeat.
 - Building cool things at DataThink.
-- Canadian, living in Rexburg, ID where it's 44°F.
+- Canadian, living in Rexburg, ID where it's 46°F.
 - Learn more about me <a href="https://ethanglenn.dev" target="_blank">here</a>.
